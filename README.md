@@ -7,6 +7,10 @@ Expenses management system
 <br><br>
 It is a single-page system without the need for a server or database that runs on any operating system and device with only internet browsers.
 <br><br>
+
+![Screenshot-2025-01-18-205447](https://github.com/user-attachments/assets/6545d50d-bc5e-4c29-89fa-707062700e93)
+
+
 این برنامه داده ها را در لوکال استوریج مرورگر محلی ذخیره می کند و امکان صادر کردن اطلاعات و ارسال برای بانک های اطلاعاتی یا برنامه های دیگر را دارد.
 <br><br>
 This program stores data in the local browser's local storage and has the ability to export information and send it to databases or other programs.
